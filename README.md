@@ -2,19 +2,19 @@
 
 **These are the projects I did when persuing Machine Learning Nanodegree provided by Udacity.**
 
-**Project: Predicting Boston Housing Prices** https://bangguo8888.github.io/machine_learning/projects/boston_housing/boston_housing.html 
+**Project: Predicting Boston Housing Prices**<br />
+https://bangguo8888.github.io/machine_learning/projects/boston_housing/boston_housing.html 
 
-**Project: Creating Customer Segments** https://bangguo8888.github.io/machine_learning/projects/customer_segments/customer_segments.html 
+**Project: Creating Customer Segments**<br />
+https://bangguo8888.github.io/machine_learning/projects/customer_segments/customer_segments.html 
 
 
-**Project: Train a Smartcab to Drive**  
-<span style="color:blue">Reinforcement Learning</span>
-
+**Project: Train a Smartcab to Drive**<br />
+<span style="color:blue">Reinforcement Learning</span> <br />
 https://bangguo8888.github.io/machine_learning/projects/smartcab/smartcab.html 
 
-**Project: Digital Recognition** 
-
-<span style="color:blue">Deep Learning,CNN</span> 
+**Project: Digital Recognition** <br />
+<span style="color:blue">Deep Learning,CNN</span> <br />
 https://bangguo8888.github.io/machine_learning/projects/digit_recognition/digit_recognition.html 
 
 
