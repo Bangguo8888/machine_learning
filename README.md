@@ -8,11 +8,14 @@
 
 
 **Project: Train a Smartcab to Drive**  
-<span style="color:blue">_Reinforcement Learning_</span>
+<span style="color:blue">Reinforcement Learning</span>
 
 https://bangguo8888.github.io/machine_learning/projects/smartcab/smartcab.html 
 
-**Project: Digital Recognition** https://bangguo8888.github.io/machine_learning/projects/digit_recognition/digit_recognition.html 
+**Project: Digital Recognition** 
+
+<span style="color:blue">_Deep Learning_</span>, &nbsp;<space> <span style="color:red">_CNN_</span>
+https://bangguo8888.github.io/machine_learning/projects/digit_recognition/digit_recognition.html 
 
 
 
