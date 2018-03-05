@@ -1,6 +1,6 @@
 # Machine Learning
 
-**These are the projects I did when persuing Machine Learning Nanodegree provided by Udacity.**
+###These are the projects I did when persuing Machine Learning Nanodegree provided by Udacity.###
 
 **Project: Predicting Boston Housing Prices**<br />
 _Surpervised Learning_<br />
