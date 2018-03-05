@@ -6,9 +6,8 @@
 
 **Project: Creating Customer Segments** https://bangguo8888.github.io/machine_learning/projects/customer_segments/customer_segments.html 
 
-**Project: Finding Donors for CharityML** https://bangguo8888.github.io/machine_learning/projects/finding_donors/finding_donors.html 
 
-**Project: Train a Smartcab to Drive** 
+**Project: Train a Smartcab to Drive**  _Reinforcement Learning_
 
 https://bangguo8888.github.io/machine_learning/projects/smartcab/smartcab.html 
 
