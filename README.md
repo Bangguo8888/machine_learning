@@ -7,7 +7,8 @@
 **Project: Creating Customer Segments** https://bangguo8888.github.io/machine_learning/projects/customer_segments/customer_segments.html 
 
 
-**Project: Train a Smartcab to Drive**  _Reinforcement Learning_
+**Project: Train a Smartcab to Drive**  
+<span style="color:blue">_Reinforcement Learning_</span>
 
 https://bangguo8888.github.io/machine_learning/projects/smartcab/smartcab.html 
 
